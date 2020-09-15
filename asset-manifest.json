@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/WARdrobe/static/css/main.cd184edb.chunk.css",
-    "main.js": "/WARdrobe/static/js/main.7a6f5175.chunk.js",
-    "main.js.map": "/WARdrobe/static/js/main.7a6f5175.chunk.js.map",
-    "runtime-main.js": "/WARdrobe/static/js/runtime-main.0e0185ff.js",
-    "runtime-main.js.map": "/WARdrobe/static/js/runtime-main.0e0185ff.js.map",
-    "static/js/2.1f05491d.chunk.js": "/WARdrobe/static/js/2.1f05491d.chunk.js",
-    "static/js/2.1f05491d.chunk.js.map": "/WARdrobe/static/js/2.1f05491d.chunk.js.map",
-    "index.html": "/WARdrobe/index.html",
-    "precache-manifest.1b2efd1d72d9e6fa3cc85b3b18746e36.js": "/WARdrobe/precache-manifest.1b2efd1d72d9e6fa3cc85b3b18746e36.js",
-    "service-worker.js": "/WARdrobe/service-worker.js",
-    "static/css/main.cd184edb.chunk.css.map": "/WARdrobe/static/css/main.cd184edb.chunk.css.map",
-    "static/js/2.1f05491d.chunk.js.LICENSE.txt": "/WARdrobe/static/js/2.1f05491d.chunk.js.LICENSE.txt",
-    "static/media/Drugman.png": "/WARdrobe/static/media/Drugman.d5c9e98c.png",
-    "static/media/Lamp_Monster_export_transparent.png": "/WARdrobe/static/media/Lamp_Monster_export_transparent.5b4e22af.png",
-    "static/media/concept.png": "/WARdrobe/static/media/concept.2c382187.png",
-    "static/media/earlyConcept.png": "/WARdrobe/static/media/earlyConcept.cc191c49.png",
-    "static/media/ikela2.png": "/WARdrobe/static/media/ikela2.74adf6b4.png",
-    "static/media/meeting.png": "/WARdrobe/static/media/meeting.bc4c9f89.png",
-    "static/media/screenshot1.png": "/WARdrobe/static/media/screenshot1.36ed79ef.png",
-    "static/media/surrounded.png": "/WARdrobe/static/media/surrounded.b79f923a.png"
+    "main.css": "/war-drobe/static/css/main.cd184edb.chunk.css",
+    "main.js": "/war-drobe/static/js/main.5912948e.chunk.js",
+    "main.js.map": "/war-drobe/static/js/main.5912948e.chunk.js.map",
+    "runtime-main.js": "/war-drobe/static/js/runtime-main.3de360d7.js",
+    "runtime-main.js.map": "/war-drobe/static/js/runtime-main.3de360d7.js.map",
+    "static/js/2.1f05491d.chunk.js": "/war-drobe/static/js/2.1f05491d.chunk.js",
+    "static/js/2.1f05491d.chunk.js.map": "/war-drobe/static/js/2.1f05491d.chunk.js.map",
+    "index.html": "/war-drobe/index.html",
+    "precache-manifest.5aff3ee24180eacdaffe4b6e518db67e.js": "/war-drobe/precache-manifest.5aff3ee24180eacdaffe4b6e518db67e.js",
+    "service-worker.js": "/war-drobe/service-worker.js",
+    "static/css/main.cd184edb.chunk.css.map": "/war-drobe/static/css/main.cd184edb.chunk.css.map",
+    "static/js/2.1f05491d.chunk.js.LICENSE.txt": "/war-drobe/static/js/2.1f05491d.chunk.js.LICENSE.txt",
+    "static/media/Drugman.png": "/war-drobe/static/media/Drugman.d5c9e98c.png",
+    "static/media/Lamp_Monster_export_transparent.png": "/war-drobe/static/media/Lamp_Monster_export_transparent.5b4e22af.png",
+    "static/media/concept.png": "/war-drobe/static/media/concept.2c382187.png",
+    "static/media/earlyConcept.png": "/war-drobe/static/media/earlyConcept.cc191c49.png",
+    "static/media/ikela2.png": "/war-drobe/static/media/ikela2.74adf6b4.png",
+    "static/media/meeting.png": "/war-drobe/static/media/meeting.bc4c9f89.png",
+    "static/media/screenshot1.png": "/war-drobe/static/media/screenshot1.36ed79ef.png",
+    "static/media/surrounded.png": "/war-drobe/static/media/surrounded.b79f923a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e0185ff.js",
+    "static/js/runtime-main.3de360d7.js",
     "static/js/2.1f05491d.chunk.js",
     "static/css/main.cd184edb.chunk.css",
-    "static/js/main.7a6f5175.chunk.js"
+    "static/js/main.5912948e.chunk.js"
   ]
 }
