@@ -1,38 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Kufam:ital@1&display=swap');
+
 .App {
   text-align: center;
+  background-color: #1344a5;
+  font-family: 'Kufam';
+  overflow-x: none;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 10% 60% 30%;
+  grid-template-rows: 15vh 90vh 5vh;
+  gap: 5px;
+  grid-template-areas:
+  "Top Top Top"
+  "Free-space Main-Frame Sidebar"
+  "Bottom-bar Bottom-bar Bottom-bar";
+  background: linear-gradient(0deg, rgba(0,208,157,1) 0%, rgba(7,92,93,1) 45%);
+  
+  
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.Top { 
+  padding-top: 0.5em;
+  font-family: 'Kufam';
+  text-align: center;
+  color:white;
+  font-size: 50px;
+  grid-area: Top; 
+  background: linear-gradient(0deg, rgba(7,92,93,1) 0%, rgba(2,0,36,1) 100%);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.Main-Frame { 
+  font-family: 'Kufam';
+  border: 3px solid #830c0c;
+  border-radius: 50px;
+  grid-area: Main-Frame; 
+  background: rgb(9,120,121);
+  background: linear-gradient(0deg, rgba(7,92,93,1) 0%, rgba(2,0,36,1) 100%);
+  overflow: scroll;
+  overflow-x: hidden;
 }
 
-.App-link {
-  color: #61dafb;
+.Main-Frame::-webkit-scrollbar{
+  display: none;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Sidebar { 
+  font-family: 'Kufam';
+  grid-area: Sidebar; 
+}
+
+.Free-space { 
+  grid-area: Free-space; 
+}
+
+.Bottom-bar { 
+  grid-area: Bottom-bar; 
+  opacity: 0;
+  width: 101%;
 }

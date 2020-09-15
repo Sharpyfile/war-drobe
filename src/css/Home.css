@@ -1,0 +1,8 @@
+.HomePage {
+    display: block;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 30px;
+    color: white;
+    -webkit-text-stroke: 2% black;
+}

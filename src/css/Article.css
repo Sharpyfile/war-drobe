@@ -1,0 +1,34 @@
+.Article {
+    align-content: center;
+}
+
+.ArticleHeader {
+    text-align: center;
+    color:white;
+    text-shadow: black;
+}
+
+.ArticleDate {
+    text-align: center;
+    color:white;
+    text-shadow: black;
+}
+
+.ArticleImage {
+    border-radius: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.ArticleText {
+    
+    padding-left: 5%;
+    padding-right: 5%;
+    text-indent: 5em;
+    color:white;
+    text-shadow: black;
+    border-color: black;
+    border-style: none none solid none;
+}

@@ -1,0 +1,198 @@
+.Sidebar {
+    display: grid;  
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    gap: 5px;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-collapse: separate;
+    border-spacing: 5px;
+}
+
+.Home {
+    text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+    font-size: 30px;
+    color: white;
+    -webkit-text-stroke: 2% black;
+    background: radial-gradient(circle, rgba(31,71,21,1) 21%, rgba(21,26,71,1) 100%);
+    transition: 0.1s;
+    
+}
+
+.Home:hover {
+    background: radial-gradient(circle, rgba(45, 102, 31, 1) 21%, rgba(21,26,71,1) 100%);
+    
+}
+
+.Blog {
+    text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+    font-size: 30px;
+    color: white;
+    -webkit-text-stroke: 2% black;
+    background: radial-gradient(circle, rgba(31,71,21,1) 21%, rgba(21,26,71,1) 100%);
+    transition: 0.1s;
+
+}
+
+.Blog:hover {
+    background: radial-gradient(circle, rgba(45, 102, 31, 1) 21%, rgba(21,26,71,1) 100%);
+
+}
+
+.Git {
+    text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+    font-size: 30px;
+    color: white;
+    background: radial-gradient(circle, rgba(75,0,77,1) 21%, rgba(21,26,71,1) 100%);
+    transition: 0.1s;
+}
+
+.Git:hover {
+    background: radial-gradient(circle, rgba(123,0,128,1) 21%, rgba(21,26,71,1) 100%);
+}
+
+.Steam {
+    text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+    font-size: 30px;
+    color: white;
+    background: radial-gradient(circle, rgba(15,58,94,1) 21%, rgba(21,26,71,1) 100%);
+    transition: 0.1s;
+}
+
+.Steam:hover {
+    background: radial-gradient(circle, rgba(23,80,128,1) 21%, rgba(21,26,71,1) 100%);
+}
+
+.Discord {
+    text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+    font-size: 30px;
+    color: white;
+    background: radial-gradient(circle, rgba(41,43,54,1) 21%, rgba(21,26,71,1) 100%);
+    transition: 0.1s;
+}
+
+.Discord:hover {
+    background: radial-gradient(circle, rgba(57,62,87,1) 21%, rgba(21,26,71,1) 100%);
+}
+
+.Twitter2 {
+    text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+    font-size: 30px;
+    color: white;
+    background: radial-gradient(circle, rgba(71,29,95,1) 21%, rgba(21,26,71,1) 100%);
+    transition: 0.1s;
+}
+
+.Twitter2:hover {
+    background: radial-gradient(circle, rgba(95,47,122,1) 21%, rgba(21,26,71,1) 100%);
+}
+
+.Facebook2 {
+    text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+    font-size: 30px;
+    color: white;
+    background: radial-gradient(circle, rgba(80,90,146,1) 21%, rgba(21,26,71,1) 100%);
+    transition: 0.1s;
+}
+
+.Facebook2:hover {
+    background: radial-gradient(circle, rgba(54,64,121,1) 21%, rgba(21,26,71,1) 100%);
+}
+
+
+.Reddit {
+    text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+    font-size: 30px;
+    color: white;
+    background: radial-gradient(circle, rgba(214,59,59,1) 21%, rgba(21,26,71,1) 100%);
+    transition: 0.1s;
+}
+
+.Reddit:hover {
+    background: radial-gradient(circle, rgba(165,41,41,1) 21%, rgba(21,26,71,1) 100%);
+}
+
+.Media {
+    text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+    font-size: 30px;
+    color: white;
+    background: radial-gradient(circle, rgba(31,71,21,1) 21%, rgba(21,26,71,1) 100%);
+    transition: 0.1s;
+}
+
+.Media:hover {
+    background: radial-gradient(circle, rgba(45, 102, 31, 1) 21%, rgba(21,26,71,1) 100%);
+}
+
+.About-us {
+    text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+    font-size: 30px;
+    color: white;
+    background: radial-gradient(circle, rgba(31,71,21,1) 21%, rgba(21,26,71,1) 100%);
+    transition: 0.1s;
+}
+
+.About-us:hover {
+    background: radial-gradient(circle, rgba(45, 102, 31, 1) 21%, rgba(21,26,71,1) 100%);
+}
+
+.Contact {
+    text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+    font-size: 30px;
+    color: white;
+    background: radial-gradient(circle, rgba(31,71,21,1) 21%, rgba(21,26,71,1) 100%);
+    transition: 0.1s;
+}
+
+.Contact:hover {
+    background: radial-gradient(circle, rgba(45, 102, 31, 1) 21%, rgba(21,26,71,1) 100%);
+}
+
+.Store {
+    text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+    font-size: 30px;
+    color: white;
+    background: radial-gradient(circle, rgba(31,71,21,1) 21%, rgba(21,26,71,1) 100%);
+    transition: 0.1s;
+}
+
+.Store:hover {
+    background: radial-gradient(circle, rgba(45, 102, 31, 1) 21%, rgba(21,26,71,1) 100%);
+}
